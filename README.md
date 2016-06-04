@@ -1,5 +1,7 @@
 # Gastric-Emptying-BE
-Exploring the Effects of Gastric Emptying and MMC-dependent Transit on Bioequivalence for BCS Class I and III Drug Products — Edit
+Exploring the Effects of Gastric Emptying and MMC-dependent Transit on Bioequivalence for BCS Class I and III Drug Products
+
+© 2016 A. Talattof
 
 Fasted-state cyclical contractions associated with gastrointestinal motility transport content from the stomach into the small bowel in a pulsatile manner, influencing the concentration presented at the absorption site. In the case of high solubility/permeability (BCS Class I) drugs, this physiological factor presents a source of inter- and intra-subject variability affecting plasma levels, thus having bioequivalence (BE) implications.
 
@@ -24,3 +26,8 @@ Files:
 
 Note: These scripts rely on the following libraries
 * numpy, scipy, simpy, time, sys, joblib, multiprocessing, csv, pickle, bz2, contextlib
+
+Further reading:
+* Gastrointestinal Motility Variation and Implications for Plasma Level Variation: Oral Drug Products.
+Talattof A, Price JC, Amidon GL.
+* http://www.ncbi.nlm.nih.gov/pubmed/26692042
