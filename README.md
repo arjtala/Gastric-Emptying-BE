@@ -29,4 +29,4 @@ Note: These scripts rely on the following libraries
 
 Further reading:
 * Talattof, A. et al. Mol. Pharmaceutics, 2016, 13 (2), pp 557–567
-* http://www.ncbi.nlm.nih.gov/pubmed/26692042
+* http://pubs.acs.org/doi/abs/10.1021/acs.molpharmaceut.5b00774
