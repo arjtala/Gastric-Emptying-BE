@@ -28,6 +28,5 @@ Note: These scripts rely on the following libraries
 * numpy, scipy, simpy, time, sys, joblib, multiprocessing, csv, pickle, bz2, contextlib
 
 Further reading:
-* Gastrointestinal Motility Variation and Implications for Plasma Level Variation: Oral Drug Products.
-Talattof A, Price JC, Amidon GL.
+* Talattof, A. et al. Mol. Pharmaceutics, 2016, 13 (2), pp 557–567
 * http://www.ncbi.nlm.nih.gov/pubmed/26692042
